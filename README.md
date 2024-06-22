@@ -87,3 +87,7 @@ Step 5: I installed mysql from the link and I set up the database after installa
 NOTE; I faced no challenges during the setup processes.
 
 
+
+https://1drv.ms/w/c/62e6f6f39165dd39/EYKdlFWodj5EhJYubXKTsRoBZ_LXV9L6q0PsYKIBn_60xQ This is the link to access the document and the added screenshots.
+
+
