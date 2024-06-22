@@ -52,3 +52,38 @@ Submit your document and GitHub repository link through the designated platform 
 - Adherence to submission guidelines and deadlines.
 
 Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
+
+
+
+
+
+       NAME: Ajiboye Oluwatobi Samuel
+Assignment: Setting Up Your Developer Environment
+Step 1. I selected windows operating system 10 which is the default of my machine as my laptop is unable to install windows operating system 11 as it does not meet the requirements.
+ 
+ 
+
+
+
+
+
+Step 2. I installed visual studio code as IDE by accessing the link of the official website via google the link and following the steps as showed by the instructor in the live class. After onboarding, I installed extensions like python, data wrangler, code runner, jupyter, git, pylance.
+ 
+Step 3:  I used the link and installed Git bash on my machine, I assigned a mail and username using git bash and after assigning, I went to the github website, created account using same email and username previously assigned and after the successful creation of the account, I navigated back to git bash and I created a directory using the commands given by the instructor; mkdir(name), cd(name) and the file was created in my computer.
+I enter the command git init into gitbash to initialize then I check the git status.
+I located the created file in my pc and create a text document in the folder and press git status to check. I press git add (name).txt then I commit the file by using git commit with a message. I checked on git hub command line, added origin an pushed the file.
+In order to link the created file on github to git I input Vi README.md, I press I to insert and insert what I want, I press escape button, shift:, press W, Q and enter.
+I press git add to add everything then I commit with a message. I press git fetch to fetch, git pull, and my IDE opens and I inputted a message and saved. Then I pressed git push.
+ 
+
+Step 4: I installed python programming language 3.1.2 from the official python website. I also confirmed the correct version was installed after installation.
+ 
+Step 5: I installed mysql from the link and I set up the database after installation following the steps from the instructor dave.
+
+ 
+
+
+
+NOTE; I faced no challenges during the setup processes.
+
+
